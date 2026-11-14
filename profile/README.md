@@ -23,7 +23,7 @@ from device to device.
 | Project | What it is | Platforms |
 |---|---|---|
 | [**FreeX Media Server**](https://github.com/FreeX-Studio/Freex-Media-Server) | The core: libraries, users, streaming, on-the-fly conversion, the API, and the built-in web client **FreeX Web** | Linux (.deb, APT repository), Windows (installer) |
-| [**FreeX TV**](https://github.com/FreeX-Studio/FreeX-TV-Apps) | Home screen and player made for the remote | Samsung Smart TVs (Tizen), Fire TV, Android TV |
+| [**FreeX TV**](https://github.com/FreeX-Studio/FreeX-TV-Apps) | Home screen and player made for the remote | Samsung Smart TVs (Tizen), LG TVs (webOS), Fire TV, Android TV |
 | [**FreeX Mobile**](https://github.com/FreeX-Studio/FreeX-Mobile) | A player made for touch, with AirPlay and picture in picture on iOS | iPhone, iPad, Android phones and tablets |
 | [**FreeX Desktop**](https://github.com/FreeX-Studio/Freex-Desktop) | FreeX Web in its own window; plays every file directly with mpv | Windows, Linux |
 | [**FreeX for Kodi**](https://github.com/FreeX-Studio/FreeX-Kodi-Addon) | Kodi add-on: your libraries like a Kodi library, played with Kodi's own player | Kodi 20+ on every platform (also LibreELEC, CoreELEC, Raspberry Pi) |
