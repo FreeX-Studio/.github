@@ -27,6 +27,7 @@ from device to device.
 | [**FreeX Mobile**](https://github.com/FreeX-Studio/FreeX-Mobile) | A player made for touch, with AirPlay and picture in picture on iOS | iPhone, iPad, Android phones and tablets |
 | [**FreeX Desktop**](https://github.com/FreeX-Studio/Freex-Desktop) | FreeX Web in its own window; plays every file directly with mpv | Windows, Linux |
 | [**FreeX for Kodi**](https://github.com/FreeX-Studio/FreeX-Kodi-Addon) | Kodi add-on: your libraries like a Kodi library, played with Kodi's own player | Kodi 20+ on every platform (also LibreELEC, CoreELEC, Raspberry Pi) |
+| [**FreeXHT**](https://github.com/FreeX-Studio/FreeX-HT) | System image: the box boots straight into the FreeX TV interface, with mpv as player and the TV remote over HDMI-CEC | Raspberry Pi 4 and 5, PC (x86_64); also Raspberry Pi 3, but with a very laggy interface |
 
 ## More ways to watch
 
